@@ -5,4 +5,4 @@ This is a Demo for Git &amp; Github class.
 purna
 
 # Student
-delta student
+delta student.
